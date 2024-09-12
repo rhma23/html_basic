@@ -1,2 +1,2 @@
 # html_basic
-latihan pembelajaran HTML basic
+first-web
