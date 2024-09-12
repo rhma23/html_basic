@@ -1,2 +1,2 @@
-# html_basic
-first-web
+# first-web
+website pertama masuk kuliah:v
